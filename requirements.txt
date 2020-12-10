@@ -4,6 +4,6 @@ Flask-SQLAlchemy
 pytest
 dulwich
 safety
-bandit
+
 python-taint
 pylint
